@@ -6,14 +6,14 @@ let store = {
   _state: {
     profilePage: {
       posts: [
-        { id: 1, message: "Hi, how are you?", likesCount: 12 },
+        { id: 1, message: "Hi, how is it going?", likesCount: 12 },
         { id: 2, message: "It's my first post", likesCount: 5 },
       ],
       newPostText: "new post text",
     },
     dialogsPage: {
       dialogs: [
-        { id: 1, name: "Dima" },
+        { id: 1, name: "Yura" },
         { id: 2, name: "Sveta" },
         { id: 3, name: "Valera" },
         { id: 4, name: "Sasha" },
