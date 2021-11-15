@@ -15,7 +15,7 @@ let store = {
       dialogs: [
         { id: 1, name: "Yura" },
         { id: 2, name: "Sveta" },
-        { id: 3, name: "Valera" },
+        { id: 3, name: "Marina" },
         { id: 4, name: "Sasha" },
         { id: 5, name: "Andrei" },
         { id: 6, name: "Victoria" },
